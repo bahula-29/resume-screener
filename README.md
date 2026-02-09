@@ -3,8 +3,10 @@
 A simple and practical **AI-powered Resume Screening web app** built using **Streamlit** and **Google Gemini API**.
 
 This app helps recruiters or users quickly evaluate multiple resumes against a given job description and shortlist the most relevant candidates.
+
 ---
-🌐 Live Demo
+
+##🌐 Live Demo
 
 You can try the live version of this app here:
 
