@@ -6,7 +6,7 @@ This app helps recruiters or users quickly evaluate multiple resumes against a g
 
 ---
 
-##🌐 Live Demo
+## 🌐 **Live Demo**
 
 You can try the live version of this app here:
 
